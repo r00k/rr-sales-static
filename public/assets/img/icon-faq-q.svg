@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-faq-q</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-36/FAQ-Question">
+            <g id="icon-faq-q">
+                <circle id="Oval" fill="#E23A00" cx="18" cy="18" r="18"></circle>
+                <path d="M16.6069906,11.9869587 L23.0217453,18.382931 C23.431235,18.7913968 23.431235,19.4534474 23.0217453,19.8619132 L16.7761926,26.089179 C16.3665273,26.4974698 15.7025325,26.4974698 15.2928673,26.089179 L15.0471383,25.8443445 C14.7971968,25.5951349 14.6939907,25.2381211 14.7640234,24.8926577 C15.1024273,23.2241432 15.3067334,21.5346279 15.3690432,19.8361872 C15.4550484,17.4982718 15.2733845,15.1885325 14.8380931,12.9363704 C14.6411589,11.917656 15.8713834,11.2536803 16.6069906,11.9869587" id="Fill-1" fill="#FFFFFF" transform="translate(19.035714, 19.035714) rotate(-315.000000) translate(-19.035714, -19.035714) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

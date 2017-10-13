@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="17px" viewBox="0 0 10 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>bullet-white-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Refactoring-Rails-02-Alt-Heading" transform="translate(-1039.000000, -5807.000000)" fill="#FFFFFF">
+            <g id="Pricing" transform="translate(0.000000, 5038.000000)">
+                <g id="Pricing-Column-Right" transform="translate(735.000000, 208.000000)">
+                    <path d="M313.642317,568.746074 C314.119228,569.217828 314.119228,569.982457 313.642317,570.454211 L306.368456,577.646336 C305.891341,578.117888 305.118022,578.117888 304.640906,577.646336 L304.354719,577.363567 C304.063626,577.075744 303.943427,576.663414 304.02499,576.264425 C304.419111,574.337389 304.657056,572.386098 304.729625,570.424499 C304.82979,567.724345 304.618216,565.056732 304.111255,562.455617 C303.881897,561.279062 305.314673,560.512209 306.171396,561.359103 L313.642317,568.746074 Z" id="bullet-white-arrow"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
