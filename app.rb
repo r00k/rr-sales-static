@@ -5,5 +5,5 @@ get "/buy" do
 end
 
 get "/" do
-  send_file File.expand_path('landing/index.html', settings.public_folder)
+  redirect to('/buy')
 end
